@@ -1,4 +1,4 @@
-$('.post').addClass('hidden')
+/* $('.post').addClass('hidden')
 $('.post').each(function() {
     var $post = $(this);
     var $readMoreButton = $('<button>').text('Read More');
@@ -8,4 +8,4 @@ $('.post').each(function() {
     });
     
     $post.append($readMoreButton);
-});
+}); */
