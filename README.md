@@ -6,7 +6,7 @@ Expect to find airplane, airline and programming languages and blog posts about 
 
 # Some images of things I enjoy:
 
-<img src="https://github.com/albertkemp/blog/assets/91766342/defddc4e-f56c-4b43-9adf-8e21ca4173ab" height="250">
+<img src="https://github.com/albertkemp/blog/assets/91766342/defddc4e-f56c-4b43-9adf-8e21ca4173ab" height="200">
 Pan Am 747 upper deck restaurant<br><br>
 <img src="https://github.com/albertkemp/blog/assets/91766342/ca088ccb-05a0-4f12-9195-d0292729668d" height="200">
 American Airlines 747 upper deck piano bar
